@@ -2,7 +2,7 @@
 A Roblox chat filter bypass tool. lol what xd lmao
 
 # Step 1
-Download the exe and run it, u will see this:
+Download the zip, extract it and run the exe
 
 ![image](https://github.com/SmilingDeveloper11/RoBypassV1/assets/164572608/de6753a9-e547-4149-b5e7-df9f9d00df63)
 
